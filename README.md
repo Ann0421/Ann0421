@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi, I' Ann 👋
+### 🌱 I’m currently learning Python
 <!--
 **Ann0421/Ann0421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
